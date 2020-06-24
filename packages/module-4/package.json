@@ -1,11 +1,11 @@
 {
-  "name": "module-3",
-  "version": "0.0.1",
+  "name": "module-4",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "iamc <twboss8@126.com>",
   "homepage": "https://github.com/iamobj/lerna-demo#readme",
   "license": "ISC",
-  "main": "lib/module-3.js",
+  "main": "lib/module-4.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,10 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/iamobj/lerna-demo/issues"
-  },
-  "dependencies": {
-    "module-1": "^1.0.0",
-    "module-2": "^1.0.0",
-    "module-4": "^0.0.0"
   }
 }
